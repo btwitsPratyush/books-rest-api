@@ -289,16 +289,6 @@ The API returns appropriate HTTP status codes:
 }
 ```
 
-## 📁 Project Structure
-
-```
-books-rest-api/
-├── server.js          # Main server file
-├── package.json       # Node.js project configuration
-├── README.md         # This documentation
-└── node_modules/     # Dependencies (created after npm install)
-```
-
 ## 🚀 Quick Test Commands
 
 Test your API using curl commands:
